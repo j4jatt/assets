@@ -1,0 +1,10 @@
+{
+  "name": "Brics Gold Coin",
+  "symbol": "BRICSETH",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x44236eea23cb3997a40c3aaeaf7e579a33a6d8c0",
+  "website": "https://your-website.com",
+  "description": "A decentralized token representing gold backed reserves.",
+  "explorer": "https://etherscan.io/token/0x44236eea23cb3997a40c3aaeaf7e579a33a6d8c0"
+}
